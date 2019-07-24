@@ -1,0 +1,22 @@
+<h2>{{weatherProvider}}</h2>
+<!-- Material unchecked -->
+<div class="form-check">
+    <input type="radio" class="form-check-input" id="materialUnchecked" name="materialExampleRadios" 
+    (click)="voteFavourite()" mdbInput>
+    <label class="form-check-label" for="materialUnchecked">Choose favourite</label>
+  </div>
+  
+  <!-- Material checked -->
+  <!-- <div class="form-check">
+    <input type="radio" class="form-check-input" id="materialChecked" name="materialExampleRadios" checked mdbInput>
+    <label class="form-check-label" for="materialChecked">Material checked</label>
+  </div> -->
+<div 
+  fxLayout="row wrap" fxLayoutGap="10px" fxLayoutAlign="flex-start">
+  <ng-container *ngFor="let data of dataTemplate" 
+  
+  >
+  <!-- style="display:inline-block;height:50px;" -->
+  <app-current-weather-card  [data]="data"></app-current-weather-card>
+  </ng-container>
+</div>

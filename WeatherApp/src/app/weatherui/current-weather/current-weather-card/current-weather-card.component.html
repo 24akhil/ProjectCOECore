@@ -1,0 +1,14 @@
+
+<div class="example hoverable">
+    <ul>
+        <b><li>{{data.label}}</li></b>
+       
+      <li>{{value}}
+          <a *ngIf="data.label=='Temperature'">
+          <span  [ngStyle]="{'color':isCelcius ? 'red':'black' }" (click)="toggleTempScale('C')">C</span>
+          <span> / </span>
+          <span [ngStyle]="{'color':isCelcius ? 'black':'red' }" (click)="toggleTempScale('F')"> F</span>      
+          </a>
+      </li>
+      </ul>
+</div>

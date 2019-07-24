@@ -1,0 +1,59 @@
+<div class="main">
+<mdb-navbar SideClass="navbar navbar-expand-lg navbar-dark indigo" >
+
+     <mdb-navbar-brand>
+       <a class="navbar-brand" routerLink=" ">
+        <!-- <img src="https://mdbootstrap.com/img/logo/mdb-transparent.png" height="30" class="d-inline-block align-top" alt=""> -->
+      TheWeatherMan
+      </a>       
+    </mdb-navbar-brand> 
+  
+    <!-- <mdb-icon fas icon="angle-left" size="lg" class="text-white mr-auto d-flex d-md-none align-self-center"></mdb-icon> -->
+  
+    <!-- Collapsible content -->
+    <links>
+  
+      <!-- Links -->
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active" routerLinkActive="active">
+          <a *ngIf="currentUser==null" class="nav-link waves-light" mdbWavesEffect routerLink="login">Login</a>
+        </li>
+        <li class="nav-item" routerLinkActive="active">
+          <a *ngIf="currentUser==null" class="nav-link waves-light" mdbWavesEffect routerLink="register">Register</a>
+        </li>
+      <li class="nav-item" routerLinkActive="active">
+          <a *ngIf="currentUser!=null" class="nav-link waves-light" mdbWavesEffect>Welcome {{currentUser.FirstName}} {{currentUser.LastName}}</a>
+      </li>
+         
+      </ul>
+      <!-- Links -->  
+      <!-- Search form -->
+      <form class="form-inline waves-light" mdbWavesEffect>
+        <div class="md-form my-0">
+          <input ngx-google-places-autocomplete [options]='options' #placesRef="ngx-places" (onAddressChange)="handleAddressChange($event)" 
+            class="form-control mr-sm-2" type="text" placeholder="Search location"> 
+        </div>
+        <div class="md-form my-0">
+          <a *ngIf="currentUser!=null" class="nav-link waves-light" mdbWavesEffect (click)="logout()">
+            <font color="white">Logout</font>
+          </a>
+        </div>
+      </form>
+    </links>
+    <!-- Collapsible content -->
+  
+  
+  </mdb-navbar>
+  <!--/.Navbar-->
+<div>  
+</div>
+</div>  
+  
+
+
+
+
+
+
+
+

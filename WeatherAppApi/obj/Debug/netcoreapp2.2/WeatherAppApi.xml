@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WeatherAppApi</name>
+    </assembly>
+    <members>
+        <member name="M:WeatherAppApi.Controllers.WeatherAppUserController.Get">
+             <summary>
+            Get Detail Of All Users.
+             </summary> 
+        </member>
+    </members>
+</doc>

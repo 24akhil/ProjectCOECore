@@ -1,0 +1,2 @@
+# ProjectCOECore
+Weather comparison application

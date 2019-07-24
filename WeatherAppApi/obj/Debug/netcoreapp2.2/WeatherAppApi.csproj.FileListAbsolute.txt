@@ -1,0 +1,128 @@
+D:\CLAD Project\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.deps.json
+D:\CLAD Project\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.runtimeconfig.json
+D:\CLAD Project\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.runtimeconfig.dev.json
+D:\CLAD Project\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.dll
+D:\CLAD Project\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.pdb
+D:\CLAD Project\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.csprojAssemblyReference.cache
+D:\CLAD Project\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.csproj.CoreCompileInputs.cache
+D:\CLAD Project\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorAssemblyInfo.cache
+D:\CLAD Project\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorAssemblyInfo.cs
+D:\CLAD Project\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.AssemblyInfoInputs.cache
+D:\CLAD Project\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.AssemblyInfo.cs
+D:\CLAD Project\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorTargetAssemblyInfo.cache
+D:\CLAD Project\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.dll
+D:\CLAD Project\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.pdb
+D:\CLAD Project\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.xml
+D:\CLAD Project\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.xml
+D:\CLAD\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.deps.json
+D:\CLAD\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.runtimeconfig.json
+D:\CLAD\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.runtimeconfig.dev.json
+D:\CLAD\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.dll
+D:\CLAD\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.pdb
+D:\CLAD\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.xml
+D:\CLAD\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.csprojAssemblyReference.cache
+D:\CLAD\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.csproj.CoreCompileInputs.cache
+D:\CLAD\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorAssemblyInfo.cache
+D:\CLAD\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorAssemblyInfo.cs
+D:\CLAD\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.AssemblyInfoInputs.cache
+D:\CLAD\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.AssemblyInfo.cs
+D:\CLAD\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorTargetAssemblyInfo.cache
+D:\CLAD\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.dll
+D:\CLAD\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.xml
+D:\CLAD\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.pdb
+D:\COE\ZIPs\WeatherAppApi (2)\bin\Debug\netcoreapp2.2\WeatherAppApi.deps.json
+D:\COE\ZIPs\WeatherAppApi (2)\bin\Debug\netcoreapp2.2\WeatherAppApi.runtimeconfig.json
+D:\COE\ZIPs\WeatherAppApi (2)\bin\Debug\netcoreapp2.2\WeatherAppApi.runtimeconfig.dev.json
+D:\COE\ZIPs\WeatherAppApi (2)\bin\Debug\netcoreapp2.2\WeatherAppApi.dll
+D:\COE\ZIPs\WeatherAppApi (2)\bin\Debug\netcoreapp2.2\WeatherAppApi.pdb
+D:\COE\ZIPs\WeatherAppApi (2)\bin\Debug\netcoreapp2.2\WeatherAppApi.xml
+D:\COE\ZIPs\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.csprojAssemblyReference.cache
+D:\COE\ZIPs\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.csproj.CoreCompileInputs.cache
+D:\COE\ZIPs\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorAssemblyInfo.cache
+D:\COE\ZIPs\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorAssemblyInfo.cs
+D:\COE\ZIPs\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.AssemblyInfoInputs.cache
+D:\COE\ZIPs\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.AssemblyInfo.cs
+D:\COE\ZIPs\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorTargetAssemblyInfo.cache
+D:\COE\ZIPs\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.dll
+D:\COE\ZIPs\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.xml
+D:\COE\ZIPs\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.pdb
+D:\WeatherAppApi (2)\bin\Debug\netcoreapp2.2\WeatherAppApi.deps.json
+D:\WeatherAppApi (2)\bin\Debug\netcoreapp2.2\WeatherAppApi.runtimeconfig.json
+D:\WeatherAppApi (2)\bin\Debug\netcoreapp2.2\WeatherAppApi.runtimeconfig.dev.json
+D:\WeatherAppApi (2)\bin\Debug\netcoreapp2.2\WeatherAppApi.dll
+D:\WeatherAppApi (2)\bin\Debug\netcoreapp2.2\WeatherAppApi.pdb
+D:\WeatherAppApi (2)\bin\Debug\netcoreapp2.2\WeatherAppApi.xml
+D:\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.csprojAssemblyReference.cache
+D:\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.csproj.CoreCompileInputs.cache
+D:\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorAssemblyInfo.cache
+D:\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorAssemblyInfo.cs
+D:\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.AssemblyInfoInputs.cache
+D:\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.AssemblyInfo.cs
+D:\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorTargetAssemblyInfo.cache
+D:\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.dll
+D:\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.xml
+D:\WeatherAppApi (2)\obj\Debug\netcoreapp2.2\WeatherAppApi.pdb
+C:\Users\abhishek.anand\Desktop\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.csprojAssemblyReference.cache
+C:\Users\abhishek.anand\Desktop\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.csproj.CoreCompileInputs.cache
+C:\Users\abhishek.anand\Desktop\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorAssemblyInfo.cache
+C:\Users\abhishek.anand\Desktop\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorAssemblyInfo.cs
+C:\Users\abhishek.anand\Desktop\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.AssemblyInfoInputs.cache
+C:\Users\abhishek.anand\Desktop\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.AssemblyInfo.cs
+C:\Users\abhishek.anand\Desktop\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.dll
+C:\Users\abhishek.anand\Desktop\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.xml
+C:\Users\abhishek.anand\Desktop\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.pdb
+C:\Users\abhishek.anand\Desktop\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.deps.json
+C:\Users\abhishek.anand\Desktop\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.runtimeconfig.json
+C:\Users\abhishek.anand\Desktop\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.runtimeconfig.dev.json
+C:\Users\abhishek.anand\Desktop\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.dll
+C:\Users\abhishek.anand\Desktop\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.pdb
+C:\Users\abhishek.anand\Desktop\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.xml
+C:\Users\abhishek.anand\Desktop\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorTargetAssemblyInfo.cache
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.csprojAssemblyReference.cache
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.csproj.CoreCompileInputs.cache
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorAssemblyInfo.cache
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorAssemblyInfo.cs
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.AssemblyInfoInputs.cache
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.AssemblyInfo.cs
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.dll
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.xml
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.pdb
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.deps.json
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.runtimeconfig.json
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.runtimeconfig.dev.json
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.dll
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.pdb
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.xml
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorTargetAssemblyInfo.cache
+D:\COE\ProjectWeather\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.deps.json
+D:\COE\ProjectWeather\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.runtimeconfig.json
+D:\COE\ProjectWeather\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.runtimeconfig.dev.json
+D:\COE\ProjectWeather\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.dll
+D:\COE\ProjectWeather\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.pdb
+D:\COE\ProjectWeather\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.xml
+D:\COE\ProjectWeather\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.csprojAssemblyReference.cache
+D:\COE\ProjectWeather\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.csproj.CoreCompileInputs.cache
+D:\COE\ProjectWeather\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorAssemblyInfo.cache
+D:\COE\ProjectWeather\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorAssemblyInfo.cs
+D:\COE\ProjectWeather\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.AssemblyInfoInputs.cache
+D:\COE\ProjectWeather\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.AssemblyInfo.cs
+D:\COE\ProjectWeather\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorTargetAssemblyInfo.cache
+D:\COE\ProjectWeather\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.dll
+D:\COE\ProjectWeather\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.xml
+D:\COE\ProjectWeather\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.pdb
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\gtuuu\ProjectCOECore\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.deps.json
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\gtuuu\ProjectCOECore\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.runtimeconfig.json
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\gtuuu\ProjectCOECore\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.runtimeconfig.dev.json
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\gtuuu\ProjectCOECore\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.dll
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\gtuuu\ProjectCOECore\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.pdb
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\gtuuu\ProjectCOECore\WeatherAppApi\bin\Debug\netcoreapp2.2\WeatherAppApi.xml
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\gtuuu\ProjectCOECore\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.csprojAssemblyReference.cache
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\gtuuu\ProjectCOECore\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.csproj.CoreCompileInputs.cache
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\gtuuu\ProjectCOECore\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorAssemblyInfo.cache
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\gtuuu\ProjectCOECore\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorAssemblyInfo.cs
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\gtuuu\ProjectCOECore\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.AssemblyInfoInputs.cache
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\gtuuu\ProjectCOECore\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.AssemblyInfo.cs
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\gtuuu\ProjectCOECore\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.RazorTargetAssemblyInfo.cache
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\gtuuu\ProjectCOECore\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.dll
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\gtuuu\ProjectCOECore\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.xml
+C:\Users\abhishek.anand\Desktop\WeatherMap Solution\gtuuu\ProjectCOECore\WeatherAppApi\obj\Debug\netcoreapp2.2\WeatherAppApi.pdb

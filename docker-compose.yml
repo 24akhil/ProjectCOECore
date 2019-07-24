@@ -1,0 +1,47 @@
+version: '2.1'
+services:  
+ redis_image:
+  image: redis
+  container_name: cachev1  
+  networks:
+      - production-network
+  ports:
+   - "6379:6379" 
+ web:              
+  build:
+   context: .
+   dockerfile: ./WeatherAppApi/DockerFile
+  links:
+   - redis_image
+  container_name: DotNetCore-Service
+  networks:
+      - production-network
+  restart: always  
+  ports:
+   - "5000:80"       
+  depends_on:
+   - redis_image
+
+ weatherapp:              
+  build:
+   context: .
+   dockerfile: ./WeatherApp/Dockerfile
+  links:
+   - redis_image
+   - web
+  container_name: weatherApp
+  networks:
+      - production-network
+  restart: always
+  ports:
+   - "80:80"       
+  depends_on:
+   - redis_image
+   - web
+
+networks:
+  production-network:
+    driver: bridge
+  
+
+  
