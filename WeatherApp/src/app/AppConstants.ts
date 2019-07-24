@@ -2,8 +2,8 @@ import { KeyValue } from '@angular/common';
 
 export class AppConstants {
     //public static get baseURL(): string { return  "/api/"; }
-//  public static get baseURL(): string { return "http://192.168.99.100:5000/api/"; }
-   public static get baseURL(): string { return "http://23.99.142.41:5000/api/"; }
+//  public static get baseURL(): string { return "http://192.168.99.100:5000/api/"; } 
+   public static get baseURL(): string { return "http://52.173.72.42:5000/api/"; }
 //   public static get baseURL(): string { return "http://localhost:5000/api/"; }
     
    // public static weatherProviderList: KeyValue {return }
